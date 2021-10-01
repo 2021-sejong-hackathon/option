@@ -3,4 +3,4 @@
 1. kakao check
   >  ``` pip install psutil ```
 3. dual check
-  >  ``` pip install wxPython ```
+  >  ``` pip install wxPython ``` [ERROR_SOLUTION](https://www.python2.net/questions-794187.htm)
